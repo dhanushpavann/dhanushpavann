@@ -5,8 +5,6 @@
 - 🎓 **AI/ML Engineer & Full-Stack Developer**
 - 🧠 Passionate about **Machine Learning, AI, and Web Development**
 - 💡 Constantly exploring new technologies & building innovative solutions
-- ✨ Interested in **AI-powered applications, Computer Vision, and NLP**
-- 🔭 Currently working on **Stock Sentiment Analysis & AI-powered projects**
 
 ---
 
@@ -21,16 +19,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
-
-
----
 
 ### 📈 GitHub Stats
 
@@ -47,5 +39,5 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://linkedin.com/in/dhanushpavan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://www.linkedin.com/in/dhanush-pavan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavann.netlify.app/)
