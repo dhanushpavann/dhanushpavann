@@ -23,7 +23,9 @@
 
 ---
 
-<img align="center" alt="Coding" width="400" src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F510454939034441311%2F&psig=AOvVaw3cC_a0hJ6mT9d3VBj-S_oj&ust=1741168510478000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCV7aeU8IsDFQAAAAAdAAAAABAS)">
+
+
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F510454939034441311%2F&psig=AOvVaw3cC_a0hJ6mT9d3VBj-S_oj&ust=1741168510478000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCV7aeU8IsDFQAAAAAdAAAAABAS)">
 
 ---
 
