@@ -24,10 +24,10 @@
 ---
 
 
-
 <p align="center">
-  <img  width="400" src="https://giffiles.alphacoders.com/215/215911.gif">
+  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
+
 
 
 ---
