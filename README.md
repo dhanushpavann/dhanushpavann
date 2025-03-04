@@ -18,7 +18,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
-  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw3KGhjexeOdieWzKS8c7rHp&ust=1741168236978000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjDhaST8IsDFQAAAAAdAAAAABAQ ">
+<div style="text-align: center;">
+  <img src="https://tenor.com/view/anime-girl-computer-gif-123456" alt="Anime Girl Computer" style="height: 300px;">
+</div>
+
 
 ---
 
