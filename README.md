@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=sliding&color=0:23A6D5,100:EE7752&height=200&section=header&text=Hi,%20I'm%20Dhanush%20Pavan%20👋&fontSize=35&animation=twinkling)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=23A6D5&center=true&width=1000&lines=AI+ML+Engineer+%7C+Web+Developer;Building+AI-powered+solutions+%F0%9F%9A%80;Passionate+about+AI,+ML,+and+Tech+Innovation)
 ### 🚀 About Me
 - 🎓 **AI/ML Engineer & Full-Stack Developer**
@@ -36,4 +36,4 @@
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://linkedin.com/in/dhanushpavan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavan.dev)
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:23A6D5,100:EE7752&height=150&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=30&animation=twinkling)
+
