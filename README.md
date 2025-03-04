@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dhanush%20Pavan%20👋&fontSize=30)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dhanush%20Pavan%20👋&fontSize=30&width=100%)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F74C4C&center=true&width=435&lines=AI+%7C+ML+Engineer+%7C+Full+Stack+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F74C4C&center=true&width=1000&lines=AI+%7C+ML+Engineer+%7C+Web+Stack+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
 
 ### 🚀 About Me
 
@@ -28,11 +28,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushPavan&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushPavan&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushPavan&show_icons=true&theme=radical&width=1000" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushPavan&theme=radical&width=1000" height="180" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushPavan&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushPavan&theme=github-dark&width=1000)
 
 ![Contribution Snake](https://github.com/DhanushPavan/DhanushPavan/blob/output/github-contribution-grid-snake.svg)
 
@@ -48,7 +48,7 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhanushpavan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge)](https://dhanushpavan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://linkedin.com/in/dhanushpavan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavan.dev)
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&width=100%)
