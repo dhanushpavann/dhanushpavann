@@ -31,8 +31,8 @@
 ---
 ### 🏆 Projects
 - 🔥 **[Customer Segmentation](https://github.com/dhanushpavann/Customer-Segmentation)** - AI-powered stock prediction using NLP
-- 🌟 **[AI Image Generator](https://github.com/dhanushpavann/TitleGenie)** - Title Generator
-.
+- 🌟 **[TitleGenie](https://github.com/dhanushpavann/TitleGenie)** - Title Generator.
+- 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://linkedin.com/in/dhanushpavan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavan.dev)
