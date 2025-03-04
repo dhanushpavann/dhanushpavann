@@ -17,6 +17,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
+
+  <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw3KGhjexeOdieWzKS8c7rHp&ust=1741168236978000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjDhaST8IsDFQAAAAAdAAAAABAQ ">
+
+---
+
 ### 📈 GitHub Stats
 
 
@@ -27,7 +32,6 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushpavann&theme=react-dark&width=1000)
-![Contribution Snake](https://github.com/DhanushPavan/dhanushpavann/blob/output/github-contribution-grid-snake.svg)
 ---
 ### 🏆 Projects
 - 🔥 **[Customer Segmentation](https://github.com/dhanushpavann/Customer-Segmentation)** - AI-powered stock prediction using NLP
