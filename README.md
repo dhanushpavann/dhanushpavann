@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dhanush%20Pavan%20👋&fontSize=30)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F74C4C&center=true&width=435&lines=AI+%7C+ML+Engineer+%7C+Full+Stack+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
+
 ### 🚀 About Me
 
 - 🎓 **AI/ML Engineer & Full-Stack Developer**
@@ -29,6 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DhanushPavan&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushPavan&theme=radical" height="150" />
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushPavan&theme=github-dark)
+
+![Contribution Snake](https://github.com/DhanushPavan/DhanushPavan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
