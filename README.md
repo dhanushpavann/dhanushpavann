@@ -26,8 +26,8 @@
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DhanushPavan&theme=react-dark&width=1000)
-![Contribution Snake](https://github.com/DhanushPavan/DhanushPavan/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushpavann&theme=react-dark&width=1000)
+![Contribution Snake](https://github.com/DhanushPavan/dhanushpavann/blob/output/github-contribution-grid-snake.svg)
 ---
 ### 🏆 Projects
 - 🔥 **[Customer Segmentation](https://github.com/dhanushpavann/Customer-Segmentation)** - AI-powered stock prediction using NLP
