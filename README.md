@@ -22,10 +22,11 @@
 </p>
 
 <div align="center">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent)
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent" alt="Quote">
 </div>
 
 
+e
 ### 📈 GitHub Stats
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushpavann&theme=react-dark&width=1000)
