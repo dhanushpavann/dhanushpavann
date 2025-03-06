@@ -21,7 +21,9 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent)
+<div align="center">
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent)
+</div>
 
 
 ### 📈 GitHub Stats
