@@ -21,7 +21,6 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
----
 
 ### 📈 GitHub Stats
 
