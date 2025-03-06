@@ -32,3 +32,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushPavan-blue?style=for-the-badge&logo=linkedin&width=1000)](https://www.linkedin.com/in/dhanush-pavan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-DhanushPavan-green?style=for-the-badge&width=1000)](https://dhanushpavann.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/Leetcode-DhanushPavan-green?style=for-the-badge&width=1000)](https://leetcode.com/u/dhanush4532/)
+
+
