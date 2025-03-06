@@ -3,7 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=23A6D5&center=true&width=1000&lines=AI+ML+Engineer+%7C+Web+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
 
-### 🚀 About Me
 
 - 🎓 **AI/ML Enthusiast | Web dev | Building innovative solutions with Deep Learning, NLP, and Cloud technologies.**
 - 🧠 Passionate about **Machine Learning, AI, and Web Development**
