@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+![Header Image](https://github.com/dhanushpavann/dhanushpavann/blob/main/github-header-image.png) 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=23A6D5&center=true&width=1000&lines=AI+ML+Engineer+%7C+Web+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
 
 
