@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **AI/ML Engineer & Full-Stack Developer**
+- 🎓 **AI/ML Enthusiast | Web dev | Building innovative solutions with Deep Learning, NLP, and Cloud technologies.**
 - 🧠 Passionate about **Machine Learning, AI, and Web Development**
 - 💡 Constantly exploring new technologies & building innovative solutions
 
@@ -26,7 +26,8 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushpavann&theme=react-dark&width=1000)
+
+![dhanushpavann's Stats](https://github-readme-stats.vercel.app/api?username=dhanushpavann&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ---
