@@ -15,10 +15,8 @@
 </p>
 
 <div align="center">
-  <!-- <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent" alt="Quote"> -->
- ```md
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-``` 
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent" alt="Quote">
+ 
 </div>
 
 
