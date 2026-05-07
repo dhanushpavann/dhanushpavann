@@ -9,7 +9,6 @@
 🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.  
 💡 **Focusing on Model Productionalization** and bridging the gap between code and cloud.
 
-💡 Focused on transforming ML models into reliable production-ready solutions using modern engineering and cloud technologies.
 
 ---
 
