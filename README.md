@@ -5,7 +5,7 @@
 
 # 🚀 Aspiring AI/ML Engineer | MLOps & Full-Stack Development
 
-🎓 **Full-Stack ML Engineer | Bridging the gap between software engineering and production-grade Machine Learning.  
+🎓 **Full-Stack ML Engineer | Bridging the gap between software engineering and production-grade Machine Learning.**  
 🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.  
 💡 **Focusing on Model Productionalization** and bridging the gap between code and cloud.
 
