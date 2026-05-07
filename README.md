@@ -5,8 +5,8 @@
 
 # 🚀 MLOps & Systems Engineering
 
-🎓 **MLOps & Full-Stack Engineer** | Building automated pipelines for Machine Learning and NLP.
-🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.
+🎓 **MLOps & Full-Stack Engineer** | Building automated pipelines for Machine Learning and NLP.  
+🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.  
 💡 **Focusing on Model Productionalization** and bridging the gap between code and cloud.
 
 ---
