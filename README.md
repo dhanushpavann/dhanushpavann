@@ -3,13 +3,17 @@
 
 
 
-# 🚀 MLOps & Systems Engineering
+# 🚀 Aspiring AI/ML Engineer | MLOps & Full-Stack Development
 
-🎓 **MLOps & Full-Stack Engineer** | Building automated pipelines for Machine Learning and NLP.  
+🎓 **Full-Stack ML Engineer | Bridging the gap between software engineering and production-grade Machine Learning.  
 🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.  
 💡 **Focusing on Model Productionalization** and bridging the gap between code and cloud.
 
+💡 Focused on transforming ML models into reliable production-ready solutions using modern engineering and cloud technologies.
+
 ---
+
+
 
 
 
