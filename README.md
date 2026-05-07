@@ -2,10 +2,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=23A6D5&center=true&width=1000&lines=AI+ML+Engineer+%7C+Web+Developer;Building+AI-powered+solutions+%F0%9F%9A%80)
 
 
-- 🎓 **AI/ML Enthusiast | Web dev | Building innovative solutions with Deep Learning, NLP, and Cloud technologies.**
-- 🧠 Passionate about **Machine Learning, AI, and Web Development**
-- 💡 Constantly exploring new technologies & building innovative solutions
 
+# 🚀 MLOps & Systems Engineering
+
+🎓 **MLOps & Full-Stack Engineer** | Building automated pipelines for Machine Learning and NLP.
+🧠 **Passionate about ML Infrastructure**, DevOps automation, and Scalable Web Development.
+💡 **Focusing on Model Productionalization** and bridging the gap between code and cloud.
+
+---
 ---
 
 
