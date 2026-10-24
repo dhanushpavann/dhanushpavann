@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/dhanushpavann/dhanushpavann/blob/main/github-header-image.png) 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/assets/profile-card.svg" alt="Dhanush Pavan Profile Card" width="100%" />
+  <img src="./assets/holographic-foil.svg" width="100%" alt="Dhanush Pavan Profile Card">
 </p>
 
 
