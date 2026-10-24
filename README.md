@@ -28,7 +28,9 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
-### Tech Stack
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+</p>
 
 <h3 align="center">🤖 AI / ML & Agentic Systems</h3>
 <p align="center">
