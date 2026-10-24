@@ -32,36 +32,49 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </p>
 
-<h3 align="center">🤖 AI / ML & Agentic Systems</h3>
+<h2 align="center">TECH STACK</h2>
 <p align="center">
-  🐍 Python &nbsp;•&nbsp; 🧠 TensorFlow &nbsp;•&nbsp; 🔥 PyTorch &nbsp;•&nbsp; 📊 Scikit-learn<br>
-  🐼 Pandas &nbsp;•&nbsp; 🔢 NumPy &nbsp;•&nbsp; 📓 Jupyter &nbsp;•&nbsp; 👁️ OpenCV<br>
-  🦜 LangChain &nbsp;•&nbsp; 🔗 LangGraph &nbsp;•&nbsp; 📚 RAG<br>
-  🤗 Hugging Face &nbsp;•&nbsp; ⚡ Groq &nbsp;•&nbsp; ♊ Gemini<br>
-  🎈 Streamlit &nbsp;•&nbsp; 🦙 Ollama
+  <i>Artificial Intelligence · Full-Stack Engineering · Cloud Infrastructure</i>
 </p>
-<h3 align="center">🌐 Full-Stack Development</h3>
+<h3 align="center">AI / ML & Agentic Systems</h3>
 <p align="center">
-  🟨 JavaScript &nbsp;•&nbsp; 🔷 TypeScript &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; ▲ Next.js<br>
-  🟢 Node.js &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; 🌶️ Flask &nbsp;•&nbsp; 🎸 Django<br>
-  🧱 HTML5 &nbsp;•&nbsp; 🎨 CSS3 &nbsp;•&nbsp; 🌊 Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="Python, TensorFlow, PyTorch, OpenCV" /><br><br>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br><br>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
-<h3 align="center">🗄️ Databases, DevOps & Cloud</h3>
+<h3 align="center">Full-Stack Development</h3>
 <p align="center">
-  🐘 PostgreSQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; 🔴 Redis<br>
-  ⚡ Supabase &nbsp;•&nbsp; 🧬 pgvector &nbsp;•&nbsp; 🟣 ChromaDB<br>
-  🐳 Docker &nbsp;•&nbsp; ☁️ AWS &nbsp;•&nbsp; 🌐 Google Cloud<br>
-  🔥 Firebase &nbsp;•&nbsp; 🏗️ Terraform
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Tailwind CSS" /><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="FastAPI, Flask, Django" />
 </p>
-<h3 align="center">⚙️ ML Engineering & Developer Tools</h3>
+<h3 align="center">Databases, DevOps & Cloud</h3>
 <p align="center">
-  🔬 MLflow &nbsp;•&nbsp; 📦 DVC &nbsp;•&nbsp; ☸️ Kubernetes<br>
-  🔄 GitHub Actions &nbsp;•&nbsp; 📈 Prometheus &nbsp;•&nbsp; 📊 Grafana<br>
-  🔀 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 🐧 Linux<br>
-  ☕ Java &nbsp;•&nbsp; 🐹 Go &nbsp;•&nbsp; 🗃️ SQL &nbsp;•&nbsp; 🐚 Bash<br>
-  🛠️ Pydantic &nbsp;•&nbsp; 🔌 MCP &nbsp;•&nbsp; 🧪 Pytest
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase,docker,aws,gcp,terraform&theme=dark" alt="PostgreSQL, MongoDB, Redis, Supabase, Firebase, Docker, AWS, Google Cloud, Terraform" /><br><br>
+  <img src="https://img.shields.io/badge/pgvector-2F4F4F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-6C47FF?style=for-the-badge&logoColor=white" />
 </p>
-
+<h3 align="center">ML Engineering & Developer Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" /><br><br>
+  <img src="https://skillicons.dev/icons?i=githubactions,prometheus,grafana,git,github,linux&theme=dark" alt="GitHub Actions, Prometheus, Grafana, Git, GitHub, Linux" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,go,bash&theme=dark" alt="Java, Go, Bash" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6C47FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+</p>
 
 ###  3D Contribution Graph
 
