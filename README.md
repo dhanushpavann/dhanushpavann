@@ -33,8 +33,9 @@
 
 ###  3D Contribution Graph
 
-  <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%" />
+</p>
 
 
 
