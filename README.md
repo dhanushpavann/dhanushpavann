@@ -28,7 +28,37 @@
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
+### Tech Stack
 
+<h3 align="center">🤖 AI / ML & Agentic Systems</h3>
+<p align="center">
+  🐍 Python &nbsp;•&nbsp; 🧠 TensorFlow &nbsp;•&nbsp; 🔥 PyTorch &nbsp;•&nbsp; 📊 Scikit-learn<br>
+  🐼 Pandas &nbsp;•&nbsp; 🔢 NumPy &nbsp;•&nbsp; 📓 Jupyter &nbsp;•&nbsp; 👁️ OpenCV<br>
+  🦜 LangChain &nbsp;•&nbsp; 🔗 LangGraph &nbsp;•&nbsp; 📚 RAG<br>
+  🤗 Hugging Face &nbsp;•&nbsp; ⚡ Groq &nbsp;•&nbsp; ♊ Gemini<br>
+  🎈 Streamlit &nbsp;•&nbsp; 🦙 Ollama
+</p>
+<h3 align="center">🌐 Full-Stack Development</h3>
+<p align="center">
+  🟨 JavaScript &nbsp;•&nbsp; 🔷 TypeScript &nbsp;•&nbsp; ⚛️ React &nbsp;•&nbsp; ▲ Next.js<br>
+  🟢 Node.js &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; 🌶️ Flask &nbsp;•&nbsp; 🎸 Django<br>
+  🧱 HTML5 &nbsp;•&nbsp; 🎨 CSS3 &nbsp;•&nbsp; 🌊 Tailwind CSS
+</p>
+<h3 align="center">🗄️ Databases, DevOps & Cloud</h3>
+<p align="center">
+  🐘 PostgreSQL &nbsp;•&nbsp; 🍃 MongoDB &nbsp;•&nbsp; 🔴 Redis<br>
+  ⚡ Supabase &nbsp;•&nbsp; 🧬 pgvector &nbsp;•&nbsp; 🟣 ChromaDB<br>
+  🐳 Docker &nbsp;•&nbsp; ☁️ AWS &nbsp;•&nbsp; 🌐 Google Cloud<br>
+  🔥 Firebase &nbsp;•&nbsp; 🏗️ Terraform
+</p>
+<h3 align="center">⚙️ ML Engineering & Developer Tools</h3>
+<p align="center">
+  🔬 MLflow &nbsp;•&nbsp; 📦 DVC &nbsp;•&nbsp; ☸️ Kubernetes<br>
+  🔄 GitHub Actions &nbsp;•&nbsp; 📈 Prometheus &nbsp;•&nbsp; 📊 Grafana<br>
+  🔀 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 🐧 Linux<br>
+  ☕ Java &nbsp;•&nbsp; 🐹 Go &nbsp;•&nbsp; 🗃️ SQL &nbsp;•&nbsp; 🐚 Bash<br>
+  🛠️ Pydantic &nbsp;•&nbsp; 🔌 MCP &nbsp;•&nbsp; 🧪 Pytest
+</p>
 
 
 ###  3D Contribution Graph
