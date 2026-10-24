@@ -1,4 +1,4 @@
-![Header Image](https://github.com/dhanushpavann/dhanushpavann/blob/main/github-header-image.png) 
+
 
 <p align="center">
   <img src="./assets/holographic-foil.svg" width="100%" alt="Dhanush Pavan Profile Card">
