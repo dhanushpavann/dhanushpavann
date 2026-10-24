@@ -29,7 +29,14 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushpavann&theme=react-dark&width=1000)
+
+### Profile Details + 3D Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushpavann&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
 
 
 ---
