@@ -16,24 +16,22 @@
 
 
 
+
+
+
+### Profile Details 
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushpavann&theme=tokyonight" width="100%" />
+
+
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&background=transparent" alt="Quote">
- 
-</div>
 
+###  3D Contribution Graph
 
-
-### 📈 GitHub Stats
-
-
-### Profile Details + 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushpavann&theme=tokyonight" width="100%" />
   <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
