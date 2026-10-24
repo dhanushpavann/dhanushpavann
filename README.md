@@ -76,7 +76,8 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
-###  3D Contribution Graph
+<h2 align="center">3D Contribution Graph</h2>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhanushpavann/dhanushpavann/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%" />
