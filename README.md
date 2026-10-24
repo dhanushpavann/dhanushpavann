@@ -19,15 +19,11 @@
 
 
 
-### Profile Details 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushpavann&theme=tokyonight" width="100%" />
-
-
 <p align="center">
   <img src="https://giffiles.alphacoders.com/215/215911.gif" width="400">
 </p>
+
+
 
 
 ###  3D Contribution Graph
